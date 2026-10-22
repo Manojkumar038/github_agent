@@ -1,0 +1,279 @@
+{
+  "report_version": "1.0",
+  "generated_at": "2026-10-01T08:46:26.253167+00:00",
+  "repository_url": "https://github.com/Manojkumar038/agent_dashboard",
+  "repository": {
+    "owner": "Manojkumar038",
+    "name": "agent_dashboard",
+    "full_name": "Manojkumar038/agent_dashboard",
+    "description": null,
+    "default_branch": "main",
+    "visibility": "public",
+    "is_fork": false,
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "languages": {
+      "JavaScript": 104172,
+      "CSS": 480,
+      "HTML": 379
+    },
+    "url": "https://github.com/Manojkumar038/agent_dashboard"
+  },
+  "development": {
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      {
+        "name": "main",
+        "protected": false,
+        "sha": "825b1627ec61e9b1712e899cf8075a81e7516832",
+        "commit_count": 14,
+        "commits": [
+          {
+            "sha": "825b1627ec61e9b1712e899cf8075a81e7516832",
+            "message": "Revise README for Migration Dashboard project\n\nUpdated the README to reflect the role and objectives for the Migration Dashboard project, emphasizing production readiness and optimization without adding unnecessary features.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-06T10:36:55Z",
+            "committer_date": "2026-08-06T10:36:55Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/825b1627ec61e9b1712e899cf8075a81e7516832"
+          },
+          {
+            "sha": "e575ba438b882e3a78f950aa37e250d29c54303b",
+            "message": "Refactor Migration Dashboard for production readiness\n\nRefactor and optimize the Migration Dashboard application for production readiness while maintaining existing functionality. Update tech stack details and improve backend and frontend optimization strategies.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-06T10:31:40Z",
+            "committer_date": "2026-08-06T10:31:40Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/e575ba438b882e3a78f950aa37e250d29c54303b"
+          },
+          {
+            "sha": "42ab56b5b04e98444af08527dfff8747dbcb357a",
+            "message": "Revise README for User Management module and features\n\nUpdated the README to reflect the new User Management module and added details about access control, audit logs, and backend APIs. Included password hashing requirements and UI guidelines.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-06T10:18:37Z",
+            "committer_date": "2026-08-06T10:18:37Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/42ab56b5b04e98444af08527dfff8747dbcb357a"
+          },
+          {
+            "sha": "09f3607fdf0f7a169f073448b073eaf97776c31c",
+            "message": "Revise README for Audit Logs module implementation\n\nUpdated the README to reflect the new Audit Logs module and its features, including API changes and UI components.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-06T10:07:12Z",
+            "committer_date": "2026-08-06T10:07:12Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/09f3607fdf0f7a169f073448b073eaf97776c31c"
+          },
+          {
+            "sha": "3b386b3f9fe103325cd3fdbd4982cc5293575896",
+            "message": "Revise README for Services Management page\n\nUpdated the README to reflect changes in the Migration Dashboard, including the new Services Management page and its features.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-06T09:24:38Z",
+            "committer_date": "2026-08-06T09:24:38Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/3b386b3f9fe103325cd3fdbd4982cc5293575896"
+          },
+          {
+            "sha": "efad619ed26c3feac02affd87d241156455494cb",
+            "message": "Enhance README with Dashboard specifications\n\nExpanded README with detailed specifications for the Dashboard page, including tech stack, layout, components, and behavior.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-05T17:05:57Z",
+            "committer_date": "2026-08-05T17:05:57Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/efad619ed26c3feac02affd87d241156455494cb"
+          },
+          {
+            "sha": "1d81ce9c6da078b312133987874c2a65df870f31",
+            "message": "Revise README for project development stages\n\nUpdated README to reflect new development stages and removed detailed requirements for the authentication flow.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-05T17:04:34Z",
+            "committer_date": "2026-08-05T17:04:34Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/1d81ce9c6da078b312133987874c2a65df870f31"
+          },
+          {
+            "sha": "271fb4a44578aac65c6ac58066da05ac968b79de",
+            "message": "Revise README for Migration Dashboard authentication\n\nUpdated the README to reflect changes in the authentication flow and tech stack for the Migration Dashboard.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-05T17:01:33Z",
+            "committer_date": "2026-08-05T17:01:33Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/271fb4a44578aac65c6ac58066da05ac968b79de"
+          },
+          {
+            "sha": "9786e44e6b94ea692cf3c2bb1b113eecf41aa5eb",
+            "message": "Revise README for authentication system implementation\n\nUpdated the README to focus on implementing a production-quality authentication system for the Migration Dashboard, including requirements, folder structure, and API endpoints.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-05T16:57:12Z",
+            "committer_date": "2026-08-05T16:57:12Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/9786e44e6b94ea692cf3c2bb1b113eecf41aa5eb"
+          },
+          {
+            "sha": "3eb4852b57cf335f4283e6f32823d3c3737ca5b4",
+            "message": "Implement Google Sheets integration for backend\n\nAdd Google Sheets integration requirements and project structure.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-05T16:52:04Z",
+            "committer_date": "2026-08-05T16:52:04Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/3eb4852b57cf335f4283e6f32823d3c3737ca5b4"
+          },
+          {
+            "sha": "89593fe94be9604a73734a3cc3cb757d523ebadc",
+            "message": "Initialize README with project details and requirements\n\nAdded project overview, tech stack, structure, and requirements for the Migration Tracking Dashboard.",
+            "author": "Manoj Kumar",
+            "author_email": "143775922+Manojkumar038@users.noreply.github.com",
+            "date": "2026-08-05T16:20:53Z",
+            "committer_date": "2026-08-05T16:20:53Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/89593fe94be9604a73734a3cc3cb757d523ebadc"
+          },
+          {
+            "sha": "e87ad28e8e26ceca7bf4612a5c24de5a5f71d0eb",
+            "message": "Frontend Integration",
+            "author": "Manoj Kumar",
+            "author_email": "18038mechmanojkumar@gmail.com",
+            "date": "2026-07-29T17:33:44Z",
+            "committer_date": "2026-07-29T17:33:44Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/e87ad28e8e26ceca7bf4612a5c24de5a5f71d0eb"
+          },
+          {
+            "sha": "975db74af4e91444631968841824be5a56207957",
+            "message": "feat: database connection",
+            "author": "Manoj Kumar",
+            "author_email": "18038mechmanojkumar@gmail.com",
+            "date": "2026-07-29T16:46:02Z",
+            "committer_date": "2026-07-29T16:46:02Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/975db74af4e91444631968841824be5a56207957"
+          },
+          {
+            "sha": "1beef5fc8e09c706f4b07c55cfbcd2b5e286a3ce",
+            "message": "feat: Initial folder structure setup",
+            "author": "Manoj Kumar",
+            "author_email": "18038mechmanojkumar@gmail.com",
+            "date": "2026-07-29T16:28:26Z",
+            "committer_date": "2026-07-29T16:28:26Z",
+            "url": "https://github.com/Manojkumar038/agent_dashboard/commit/1beef5fc8e09c706f4b07c55cfbcd2b5e286a3ce"
+          }
+        ]
+      }
+    ],
+    "commit_count": 14,
+    "contributors": [
+      {
+        "login": "Manoj Kumar",
+        "commit_count": 14,
+        "github_contributions": null
+      },
+      {
+        "login": "Manojkumar038",
+        "commit_count": 0,
+        "github_contributions": 14
+      }
+    ]
+  },
+  "pull_requests": {
+    "count": 0,
+    "items": [],
+    "metrics": {
+      "time_to_first_review": {
+        "count": 0,
+        "average_hours": null,
+        "median_hours": null,
+        "p75_hours": null,
+        "p90_hours": null
+      },
+      "created_to_merge": {
+        "count": 0,
+        "average_hours": null,
+        "median_hours": null,
+        "p75_hours": null,
+        "p90_hours": null
+      }
+    }
+  },
+  "delivery": {
+    "actions": {
+      "workflow_count": 0,
+      "workflows": [],
+      "run_count": 0,
+      "successful_runs": 0,
+      "failed_runs": 0,
+      "cancelled_runs": 0,
+      "runs": []
+    },
+    "deployments": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "releases": {
+    "release_count": 0,
+    "releases": []
+  },
+  "tags": {
+    "tag_count": 0,
+    "tags": []
+  },
+  "features": [],
+  "metrics": {
+    "feature_count": 0,
+    "completed_feature_count": 0,
+    "lead_time": {
+      "feature_development": {
+        "count": 0,
+        "average_hours": null,
+        "median_hours": null,
+        "p75_hours": null,
+        "p90_hours": null
+      },
+      "development_to_merge": {
+        "count": 0,
+        "average_hours": null,
+        "median_hours": null,
+        "p75_hours": null,
+        "p90_hours": null
+      },
+      "merge_to_dev": {
+        "count": 0,
+        "average_hours": null,
+        "median_hours": null,
+        "p75_hours": null,
+        "p90_hours": null
+      },
+      "dev_to_test": {
+        "count": 0,
+        "average_hours": null,
+        "median_hours": null,
+        "p75_hours": null,
+        "p90_hours": null
+      },
+      "test_to_prod": {
+        "count": 0,
+        "average_hours": null,
+        "median_hours": null,
+        "p75_hours": null,
+        "p90_hours": null
+      },
+      "development_to_prod": {
+        "count": 0,
+        "average_hours": null,
+        "median_hours": null,
+        "p75_hours": null,
+        "p90_hours": null
+      }
+    }
+  },
+  "collection_metadata": {
+    "github_api": "REST",
+    "warnings": [],
+    "notes": [
+      "Feature identification uses both source branches and pull requests.",
+      "Historical PRs are retained even when their source branch no longer exists.",
+      "Deployment correlation uses deployment ref/SHA and normalized DEV/TEST/PROD environment names.",
+      "Only data returned by the GitHub API is treated as evidence; missing stages remain null.",
+      "The current GitHub helper functions request up to 100 items per endpoint/page."
+    ]
+  }
+}

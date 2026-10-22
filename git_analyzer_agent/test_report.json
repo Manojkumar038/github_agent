@@ -1,0 +1,82 @@
+{
+  "report_version": "3.1-commit-only-human",
+  "repository": {
+    "owner": "github",
+    "name": "branch-deploy",
+    "full_name": "github/branch-deploy",
+    "url": "https://github.com/github/branch-deploy",
+    "default_branch": "main"
+  },
+  "definition": {
+    "metric": "development_lead_time",
+    "formula": "last meaningful human commit - first meaningful human commit",
+    "unit": "hours",
+    "feature_identification": "non-default development branch",
+    "bot_commits": "excluded"
+  },
+  "summary": {
+    "branch_count": 4,
+    "feature_count": 1,
+    "calculated_feature_count": 1,
+    "bot_commits_excluded": 6,
+    "average_lead_time_hours": 1095.94,
+    "median_lead_time_hours": 1095.94,
+    "lead_time_distribution": {
+      "count": 1,
+      "average_hours": 1095.94,
+      "median_hours": 1095.94,
+      "p75_hours": 1095.94,
+      "p90_hours": 1095.94
+    }
+  },
+  "features": [
+    {
+      "branch": "brandonganem-cfs-package-rollout",
+      "developers": [
+        "Brandon Ganem",
+        "Grant Birkinbine",
+        "GrantBirki",
+        "nobe4"
+      ],
+      "commit_count": 94,
+      "first_commit": "2026-06-30T02:00:03Z",
+      "last_commit": "2026-08-14T17:56:21Z",
+      "development_lead_time_hours": 1095.94,
+      "human_commits_used": 94,
+      "bot_commits_excluded": 6,
+      "status": "calculated",
+      "feature": "brandonganem-cfs-package-rollout"
+    }
+  ],
+  "developer_summary": [
+    {
+      "developer": "Brandon Ganem",
+      "feature_count": 1,
+      "average_lead_time_hours": 1095.94,
+      "median_lead_time_hours": 1095.94
+    },
+    {
+      "developer": "Grant Birkinbine",
+      "feature_count": 1,
+      "average_lead_time_hours": 1095.94,
+      "median_lead_time_hours": 1095.94
+    },
+    {
+      "developer": "GrantBirki",
+      "feature_count": 1,
+      "average_lead_time_hours": 1095.94,
+      "median_lead_time_hours": 1095.94
+    },
+    {
+      "developer": "nobe4",
+      "feature_count": 1,
+      "average_lead_time_hours": 1095.94,
+      "median_lead_time_hours": 1095.94
+    }
+  ],
+  "data_quality": {
+    "warnings": [],
+    "note": "Lead time uses only human commit timestamps. Bot/automation commits are excluded. No PR, review, deployment, Actions, release, or tag data is used.",
+    "collection_seconds": 2.35
+  }
+}

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Local agent data
+.adk/
+
+# Editors
+.vscode/
+.idea/
+
+# Downloaded archive
+/git_analyzer_agent.zip
